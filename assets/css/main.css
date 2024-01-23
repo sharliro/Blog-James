@@ -78,7 +78,7 @@ html {
   box-sizing: inherit; }
 
 body {
-  background: #76993d; }
+  background: #ffffff; }
   body.is-preload *, body.is-preload *:before, body.is-preload *:after, body.is-resizing *, body.is-resizing *:before, body.is-resizing *:after {
     -moz-animation: none !important;
     -webkit-animation: none !important;
@@ -998,7 +998,7 @@ header p {
   text-transform: uppercase; }
 
 header.major > :last-child {
-  border-bottom: solid 3px #76993d;
+  border-bottom: solid 3px #000000;
   display: inline-block;
   margin: 0 0 2em 0;
   padding: 0 0.75em 0.5em 0; }
@@ -1211,6 +1211,16 @@ input[type="radio"] + label:before {
     font-family: 'Font Awesome 5 Brands'; }
 
 /* Image */
+.imageposts{
+  width: 350px;
+  height: 380px;
+
+}
+.imagebaner{
+  width: 300px;
+}
+
+
 .image {
   border-radius: 0.375em;
   border: 0;

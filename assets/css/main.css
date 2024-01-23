@@ -57,6 +57,7 @@ input, select, textarea {
   appearance: none; }
 
 /* Basic */
+
 @-ms-viewport {
   width: device-width; }
 
@@ -90,6 +91,9 @@ body {
     transition: none !important; }
 
 /* Type */
+p{
+  text-align: justify;
+}
 body, input, select, textarea {
   color: #000000;
   font-family: "Open Sans", sans-serif;

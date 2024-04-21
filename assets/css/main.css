@@ -92,6 +92,7 @@ body {
 
 /* Type */
 p{
+  font-size: 16pt;
   text-align: justify;
 }
 body, input, select, textarea {
